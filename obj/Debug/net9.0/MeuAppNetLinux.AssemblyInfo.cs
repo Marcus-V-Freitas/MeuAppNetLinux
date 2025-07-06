@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeuAppNetLinux")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86a0807ed605294964cfe26c9f3d3b8b2695aaad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a0e6099dee36ab8eacb07e6d35698edad0e2db6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeuAppNetLinux")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeuAppNetLinux")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

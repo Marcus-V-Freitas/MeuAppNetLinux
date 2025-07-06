@@ -1,0 +1,9 @@
+# .dockerignore
+
+# Exclude build artifacts and local user files
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
